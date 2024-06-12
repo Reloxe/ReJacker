@@ -2,10 +2,10 @@
 Simple windows data grabber | FOR EDUCATIONAL PURPOSES
 
 
-## Using 
+# Using 
 
-# Download Python (Add To Path Check!)
+## Download Python (Add To Path Check!)
 
-# Run Install Modules.bat
+## Run Install Modules.bat
 
-# And run.bat
+## And run.bat
