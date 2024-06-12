@@ -1,0 +1,8 @@
+requests-toolbelt
+requests
+pyinstaller
+pycryptodomex
+cryptography
+tk
+pillow
+pypiwin32
